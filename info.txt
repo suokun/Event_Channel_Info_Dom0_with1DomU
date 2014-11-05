@@ -260,6 +260,7 @@ Event_Channel_Info_Dom0_with1DomU
 
 
 
-
+//one interesting things is when create a new guest OS(with 12 new event channels), however, in dom 0 it just 
+//add six interdomain event channels(from bucket 1 event channel 97).
 
 
