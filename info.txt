@@ -515,3 +515,5 @@ $ cat /proc/interrupts
  MIS:          0
 
 
+
+//compared to dom 0 without any dom U, the difference is that there are 6 more interrupt lines(348~353) which map to 6 more interdomain event channel in each dom U.
